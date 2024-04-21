@@ -2,7 +2,7 @@ import pygame
 import math
 import random
 from pygame import mixer
-#Intialize the pygame
+#Intialize the pygame to start
 pygame.init()
 # create the screen
 screen= pygame.display.set_mode((1000, 800))
